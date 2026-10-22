@@ -1,0 +1,1 @@
+--out-path /home/pasha/opencode_test3/build/gladsources/glad_gl --api gl:core=4.3 c

@@ -1,0 +1,17 @@
+/home/pasha/opencode_test3/build/CMakeFiles/glad_gl.dir
+/home/pasha/opencode_test3/build/CMakeFiles/game.dir
+/home/pasha/opencode_test3/build/CMakeFiles/edit_cache.dir
+/home/pasha/opencode_test3/build/CMakeFiles/rebuild_cache.dir
+/home/pasha/opencode_test3/build/_deps/glfw-build/CMakeFiles/edit_cache.dir
+/home/pasha/opencode_test3/build/_deps/glfw-build/CMakeFiles/rebuild_cache.dir
+/home/pasha/opencode_test3/build/_deps/glfw-build/src/CMakeFiles/glfw.dir
+/home/pasha/opencode_test3/build/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+/home/pasha/opencode_test3/build/_deps/glfw-build/src/CMakeFiles/edit_cache.dir
+/home/pasha/opencode_test3/build/_deps/glfw-build/src/CMakeFiles/rebuild_cache.dir
+/home/pasha/opencode_test3/build/_deps/glm-build/CMakeFiles/edit_cache.dir
+/home/pasha/opencode_test3/build/_deps/glm-build/CMakeFiles/rebuild_cache.dir
+/home/pasha/opencode_test3/build/_deps/glm-build/glm/CMakeFiles/glm.dir
+/home/pasha/opencode_test3/build/_deps/glm-build/glm/CMakeFiles/edit_cache.dir
+/home/pasha/opencode_test3/build/_deps/glm-build/glm/CMakeFiles/rebuild_cache.dir
+/home/pasha/opencode_test3/build/_deps/glad-build/CMakeFiles/edit_cache.dir
+/home/pasha/opencode_test3/build/_deps/glad-build/CMakeFiles/rebuild_cache.dir

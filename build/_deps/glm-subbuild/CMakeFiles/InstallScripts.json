@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/pasha/opencode_test3/build/_deps/glm-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

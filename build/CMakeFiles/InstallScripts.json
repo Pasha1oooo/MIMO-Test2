@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/pasha/opencode_test3/build/cmake_install.cmake",
+		"/home/pasha/opencode_test3/build/_deps/glfw-build/cmake_install.cmake",
+		"/home/pasha/opencode_test3/build/_deps/glfw-build/src/cmake_install.cmake",
+		"/home/pasha/opencode_test3/build/_deps/glm-build/cmake_install.cmake",
+		"/home/pasha/opencode_test3/build/_deps/glm-build/glm/cmake_install.cmake",
+		"/home/pasha/opencode_test3/build/_deps/glad-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

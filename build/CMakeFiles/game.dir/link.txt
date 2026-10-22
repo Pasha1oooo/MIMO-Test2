@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/game.dir/link.d CMakeFiles/game.dir/src/main.cpp.o -o game  _deps/glfw-build/src/libglfw3.a libglad_gl.a _deps/glm-build/glm/libglm.a -lm -lpthread /usr/lib/librt.a -lm -ldl
